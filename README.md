@@ -1,2 +1,3 @@
-# notes
-All my notes.
+# Notes
+Collection of my notes, made public. 
+
