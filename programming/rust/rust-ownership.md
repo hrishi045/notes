@@ -4,8 +4,6 @@ title: Rust Ownership
 
 # Rust Ownership
 
-From: [The Rust Book - Ownership](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
-
 ### Background
 
 - Every bit of memory allocated in the heap needs to be deallocated. 
