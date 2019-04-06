@@ -1,3 +1,7 @@
+---
+title: Rust Ownership
+---
+
 # Rust Ownership
 
 From: [The Rust Book - Ownership](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
@@ -5,7 +9,7 @@ From: [The Rust Book - Ownership](https://doc.rust-lang.org/book/ch04-00-underst
 ### Background
 
 - Every bit of memory allocated in the heap needs to be deallocated. 
-- In C, the deallocation is usually done in the calling scope, using `free()`
+- In C, the deallocation is usually done in the calling scope, using `free()`.
 - In C++, RAII (Resource Acquisition Is Initialization) patterns are commonly used.
 - Languages with garbage collection take care of the deallocation (and allocation).
 - Rust manages memory differently.
