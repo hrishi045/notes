@@ -1,10 +1,7 @@
-# hrishi045's Notes
-Collection of my notes, made public. 
+hrishi045's notes
+=================
 
-## Programming
+A collection of all my notes.
 
-### Rust
+https://hrishi045.github.io/notes
 
-- [Rust Ownership](programming/rust/rust-ownership.md)
-- [Rust Structs](programming/rust/rust-enums.md)
-- [Rust Enums](programming/rust/rust-enums.md)
